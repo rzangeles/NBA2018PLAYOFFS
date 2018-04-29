@@ -21,9 +21,6 @@ Steps:
 4.  Train the data
 5.  Test the data
 6.  Make the necessary prediction
-
-
-
-
-
-2.
+7.  Continue to improve prediction
+8.  Matchup Prediction with results
+9.  Visualize the predictions vs actual results
